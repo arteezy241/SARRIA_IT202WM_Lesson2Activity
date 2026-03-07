@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Amora_IT202WM_Lesson2Activity")]
+[assembly: AssemblyTitle("SARRIA_IT202WM_Lesson2Activity")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Amora_IT202WM_Lesson2Activity")]
+[assembly: AssemblyProduct("SARRIA_IT202WM_Lesson2Activity")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
